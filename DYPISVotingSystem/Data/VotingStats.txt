@@ -1,0 +1,9 @@
+CANDIDATE ID, HOUSE, GRADE, POSITION, VOTE COUNT
+C1-Abhay,Blue,11,Head Boy,80,
+C2-Amaan,Yellow,11,Sports Captain(M),90,
+C3-Azhan,Yellow,9,Captain,107,
+C4-Ruvin,Green,11,Head Boy,56,
+C5-Kshmya,Yellow,11,Head Boy,49,
+C6-Prathamesh,Yellow,9,Sports Captain(M),78,
+C7-Resham,Red,11,Sports Captain(F),201,
+C8-Vanshika,Yellow,11,Head Girl,119,

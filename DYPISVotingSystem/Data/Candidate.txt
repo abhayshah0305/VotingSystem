@@ -1,0 +1,17 @@
+CANDIDATE ID, FIRST NAME, LAST NAME,  GRADE,  GENDER, HOUSE, POSITION, IMAGEPATH
+C1,Abhay,Shah,11,Male,Blue,Head Boy,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy4.png,
+C2,Ruvin,Dholakiya,9,Male,Green,Captain,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy.png,
+C3,Azhan,Rajan,11,Male,Yellow,Head Boy,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy4.png
+C4,Resham,Mewani,9,Female,Red,Head Girl,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\girl.png,
+C5,Prathamesh,Mantri,11,Male,Green,Sports Captain (M),C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\student.png,
+C6,Amaan,Karachiwala,11,Male,Yellow,Head Boy,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy.png,
+C7,Shobhit,Jain,9,Male,Green,Sports Captain (M),C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy.png,
+C8,Vanshika,Patel,9,Female,Red,Head Girl,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\girl.png,
+C9,Jessika,Mayani,9,Female,Blue,Sports Captain (F),C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\girl.png,
+C10,Palli,Kheni,9,Female,Blue,Head Girl,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\girl.png,
+C11,Abhinav,Shah,11,Male,Yellow,Head Boy,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy.png,
+C12,Dhru,Dholakia,11,Male,Red,Sports Captain (M),C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy.png,
+C13,Nitya,Yadav,11,Female,Yellow,Head Boy,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\girl.png,
+C14,Kshmya,Nandu,11,Male,Yellow,Sports Captain (M),C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy3.png,
+C15,Saher,Bhamla,11,Female,Yellow,Head Boy,C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\girl.png,
+C16,Hriday,Nasta,11,Male,Green,Sports Captain (M),C:\Users\User\Desktop\DYPISVotingSystem\DYPISVotingSystem\img\boy.png,
