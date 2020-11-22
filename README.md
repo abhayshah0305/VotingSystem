@@ -5,4 +5,4 @@ A Desktop Application Programmed in Java to ease the process of Voting for the H
 
 <b>Installation:</b>
 1) JDK 1.8 or higher
-2) Clone the repository and Import the project on eclipse or netbeans
+2) Clone the repository and Import the project in eclipse or netbeans
